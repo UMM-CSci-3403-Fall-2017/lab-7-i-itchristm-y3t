@@ -1,0 +1,5 @@
+Based on our test runs of our MultipleCalls script, we can conclude that our multithreaded
+server is faster than a single threaded server. We ran it on multiple clients ranging from
+25 to 100. However, when changing the amount of threads our server uses, we noticed
+that running the shell script with only two threads ran faster overall than
+when we increased the number of threads. 
